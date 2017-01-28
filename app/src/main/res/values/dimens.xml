@@ -1,0 +1,24 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_marginStart">50dp</dimen>
+    <dimen name="button_marginEnd">50dp</dimen>
+    <dimen name="button_marginLeft">50dp</dimen>
+    <dimen name="button_marginRight">50dp</dimen>
+    <dimen name="button_marginBottom">16dp</dimen>
+    <dimen name="results_marginEnd">16dp</dimen>
+    <dimen name="results_marginLeft">16dp</dimen>
+    <dimen name="results_marginRight">16dp</dimen>
+    <dimen name="results_marginStart">16dp</dimen>
+    <dimen name="results_marginTop">20dp</dimen>
+    <dimen name="whole_table_layout_marginEnd">16dp</dimen>
+    <dimen name="whole_table_layout_marginLeft">8dp</dimen>
+    <dimen name="whole_table_layout_marginRight">16dp</dimen>
+    <dimen name="whole_table_layout_marginStart">8dp</dimen>
+    <dimen name="whole_table_layout_marginTop">28dp</dimen>
+    <dimen name="row_column_cost_marginTop">16dp</dimen>
+    <dimen name="space_from_settingRow_marginTop">24dp</dimen>
+    <dimen name="inputLine_paddingBottom">6dp</dimen>
+    <dimen name="inputLine_paddingTop">6dp</dimen>
+</resources>

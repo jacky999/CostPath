@@ -1,0 +1,7 @@
+#Wed Jan 25 14:03:37 EST 2017
+base.0=E\:\\Codes trying\\CostPath\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7a0cb374bdddb00217dd692776065bb2dff6b321
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Codes trying\\CostPath\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9e87f0190e148c81d690fb5ed256bae00645a2d4\\classes.dex
+base.1=E\:\\Codes trying\\CostPath\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9e87f0190e148c81d690fb5ed256bae00645a2d4
+file.0=E\:\\Codes trying\\CostPath\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7a0cb374bdddb00217dd692776065bb2dff6b321\\classes.dex

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Lowest Cost Path</string>
+    <string name="input_column_numbers">Input Column Numbers</string>
+    <string name="results">Results:</string>
+    <string name="pleaseEnterTheValidNumber">Please enter the valid Number</string>
+    <string name="invalidInputLine">Invalid Input Line</string>
+    <string name="inValidRowNo">Invalid Row Numbers: should between 1 and 10</string>
+    <string name="invalidMaxCost">Invalid Max Cost: should be > 0</string>
+    <string name="invalidColumnNumber">Invalid Column Numbers: should between 1 and 10</string>
+    <string name="_1_2_3">1,2,3...</string>
+    <string name="inValidRowColumnCostNumbers">Please first enter the valid Row Numbers, Column Numbers and Max Cost</string>
+    <string name="Row_Number">Row Number:</string>
+    <string name="Start">Start</string>
+    <string name="Column_Number">Column Number:</string>
+    <string name="Max_Cost">Max Cost:</string>
+    <string name="Row_1">Row 1:</string>
+    <string name="Row_2">Row 2</string>
+    <string name="Row_3">Row 3:</string>
+    <string name="Row_4">Row 4:</string>
+    <string name="Row_5">Row 5:</string>
+    <string name="Row_6">Row 6:</string>
+    <string name="Row_7">Row 7:</string>
+    <string name="Row_8">Row 8:</string>
+    <string name="Row_9">Row 9:</string>
+    <string name="Row_10">Row 10:</string>
+    <string name="empty_string" />
+</resources>
